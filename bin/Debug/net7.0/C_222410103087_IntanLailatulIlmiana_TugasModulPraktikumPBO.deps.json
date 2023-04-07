@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "C_222410103087_IntanLailatulIlmiana_TugasModulPraktikumPBO/1.0.0": {
+        "runtime": {
+          "C_222410103087_IntanLailatulIlmiana_TugasModulPraktikumPBO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C_222410103087_IntanLailatulIlmiana_TugasModulPraktikumPBO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
